@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Mxnu-Gvddia/Mxnu-Gvddia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+** Im Mxnu-Gvddia** is a ✨special✨ and this is my GitHub profile.
 
 Here are some ideas to started:
 
