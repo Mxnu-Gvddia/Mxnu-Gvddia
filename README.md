@@ -1,9 +1,17 @@
 ## Hi there 👋
+# ✦ Manuel Gavidia
 
+> "La lógica te llevará de A a B. La imaginación, a todas partes."
 
-** Im Mxnu-Gvddia** is a ✨special✨ and this is my GitHub profile.
+### ⎯⎯⎯⎯  about me  ⎯⎯⎯⎯
+* 🎓 **Estudiante en la UCA** | Construyendo el futuro a través del código.
+* ⚡ **Focus to learn:** Python, Automatización & Shell Scripting.
+* 🌿 **always with hungry** 
+### ⎯⎯⎯⎯  stack  ⎯⎯⎯⎯
+`Python` · `PowerShell` · `Análisis de Datos` · `Sistemas de Productividad`
 
-Here are some ideas to started:
+---
+[ 💥​ IG ](Mxnu_Gvddia) · [ 📧 Email ]( 00099026@uca.edu.sv )
 
 - 🔭 I’m currently working on: GIT HUB AND GIT ...
 - 🌱 I’m currently learning: English and  ...
@@ -13,5 +21,4 @@ Here are some ideas to started:
 - 😄 Pronouns: HE/HIM ...
 - ⚡ Fun fact:Im a good player in the videogames ...
 
-  
--->Im studying ING. Informatic in the UCA<--
+-->...<--
