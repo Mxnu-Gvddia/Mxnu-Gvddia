@@ -11,8 +11,7 @@
 `Python` · `PowerShell` · `Análisis de Datos` · `Sistemas de Productividad`
 
 ---
-[ 💥​ IG ](Mxnu_Gvddia) · [ 📧 Email ]( 00099026@uca.edu.sv )
-
+||   💥 IG: Mxnu_Gvddia   || -- ||   📧 Email: 00099026@uca.edu.sv   ||
 - 🔭 I’m currently working on: GIT HUB AND GIT ...
 - 🌱 I’m currently learning: English and  ...
 - 👯 I’m looking to collaborate On: in a some team ...
