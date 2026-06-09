@@ -8,7 +8,7 @@
 * ⚡ **Focus to learn:** Python, Automatización & Shell Scripting.
 * 🌿 **always with hungry** 
 ### ⎯⎯⎯⎯  stack  ⎯⎯⎯⎯
-`Python` · `PowerShell` · `Análisis de Datos` · `Sistemas de Productividad`
+  `Python` · `C, C++, C#` · `PowerShell` · `Análisis de Datos`  · `Sistemas de Productividad`
 
 ---
 ||   💥 IG: Mxnu_Gvddia   || -- ||   📧 Email: 00099026@uca.edu.sv   ||
